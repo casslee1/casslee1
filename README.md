@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Cassandra Lee
-
+I'm working on becoming a full stack developer! My background is in geography and GIS.
 
 - 🔭 I’m currently working on my first Get Coding module 
 - 🌱 I’m currently learning HTML, CSS, JavaScript 
