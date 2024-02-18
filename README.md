@@ -5,7 +5,7 @@ I'm working on becoming a full stack developer! I enjoy learning new skills and 
 - 🌱 I’m learning HTML, CSS, JavaScript
 
 #### Projects:
-- :sunrise_over_mountains: <a href="https://github.com/casslee1/PickATrail">Choose Your Path</a>
+- :sunrise_over_mountains: <a href="https://casslee1.github.io/PickATrail/">Choose Your Path</a>
 
 #### Languages and tools:
  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
