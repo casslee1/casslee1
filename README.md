@@ -2,7 +2,7 @@
 I'm working on becoming a full stack developer! I enjoy learning new skills and am focusing on developing the skills I need to start a career in the local tech sector. My background is in geography and geographic information systems (GIS) and I have an M.Sc. from Memorial University. I enjoy hiking, when I get the chance, and am also an avid reader.
 
 - 🔭 I’m currently working on the second module for <a href="https://www.getcoding.ca/">Get Coding</a>
-- 🌱 I’m learning HTML, CSS, JavaScript
+- 🌱 I’m learning HTML, CSS, JavaScript, React
 
 #### Projects:
 - :sunrise_over_mountains: <a href="https://casslee1.github.io/PickATrail/">Choose Your Path</a>
