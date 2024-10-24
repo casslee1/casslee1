@@ -7,6 +7,7 @@ I'm working on becoming a full stack developer! I enjoy learning new skills and 
 #### Projects:
 - :sunrise_over_mountains: <a href="https://casslee1.github.io/PickATrail/">Choose Your Path</a>
 - :earth_africa: <a href="https://casslee1.github.io/QuizMap/">QuizMap</a>
+- :beers: <a href="https://beerscout.ca/">Beer Scout</a>
 
 #### Languages and tools:
  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
